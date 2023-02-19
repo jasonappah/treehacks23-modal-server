@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "treehacks23"
+version = "0.1.0"
+description = ""
+authors = ["Jason Antwi-Appah <hey@jasonaa.me>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+modal-client = "^0.46.1281"
+python-dotenv = "^0.21.1"
+cohere = "^3.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

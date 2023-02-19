@@ -1,0 +1,2 @@
+# DevDocs
+Sourced by running [DevDocs](https://github.com/freeCodeCamp/devdocs) in a Docker container, then `docker cp CONTAINER_ID:/devdocs/public/docs ./data/devdocs`. Some docs were removed for time's sake and ease of indexing.
